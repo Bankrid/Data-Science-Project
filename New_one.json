@@ -1,0 +1,1022 @@
+[
+	{
+		"S/N" : 1,
+		"DRUGS" : "SYR. IBUPROFEN ",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 3000
+	},
+	{
+		"S/N" : 2,
+		"DRUGS" : "SYR. PARACETAMOL",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 6000
+	},
+	{
+		"S/N" : 3,
+		"DRUGS" : "SYR. VITAMIN C",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 3000
+	},
+	{
+		"S/N" : 4,
+		"DRUGS" : "SYR. VITAMIN BCO",
+		"Last" : "nil",
+		"Used" : "9 bts",
+		"Remain" : "4 bts",
+		"Needed" : "1 roll",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 5,
+		"DRUGS" : "SYR. COUGH CHILDREN ",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 3000
+	},
+	{
+		"S/N" : 6,
+		"DRUGS" : "SYR. PROMETHAZINE ",
+		"Last" : "1 roll ",
+		"Used" : "1 roll",
+		"Remain" : "nil",
+		"Needed" : "2 rols",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 7,
+		"DRUGS" : "SYR. PIRITON",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolla",
+		"Unit_Price" : "3000",
+		"Amount" : 3000
+	},
+	{
+		"S/N" : 8,
+		"DRUGS" : "SYR. COUGH ADULT ",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 3000
+	},
+	{
+		"S/N" : 9,
+		"DRUGS" : "SUSP SEPTRIN ",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "2500",
+		"Amount" : 2500
+	},
+	{
+		"S/N" : 10,
+		"DRUGS" : "SUSP. ACT",
+		"Last" : "3 rolls",
+		"Used" : "3 rolls ",
+		"Remain" : "nil",
+		"Needed" : "5 rolls",
+		"Unit_Price" : "4500",
+		"Amount" : 9000
+	},
+	{
+		"S/N" : 11,
+		"DRUGS" : "SUSP. ERYTHROMYCIN ",
+		"Last" : "nil",
+		"Used" : "1 roll",
+		"Remain" : "2 bts ",
+		"Needed" : "1 roll",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 12,
+		"DRUGS" : "SUSP. AMPICLOX ",
+		"Last" : "nil",
+		"Used" : "12 bts",
+		"Remain" : "2 bts ",
+		"Needed" : "2 rolls",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 13,
+		"DRUGS" : "SUSP. FLAGYL",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "1 roll",
+		"Needed" : "2 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 3000
+	},
+	{
+		"S/N" : 14,
+		"DRUGS" : "SUSP. AMOXIL ",
+		"Last" : "2 roll",
+		"Used" : "2 rolls ",
+		"Remain" : "nil",
+		"Needed" : "2 rolls",
+		"Unit_Price" : "3500",
+		"Amount" : 3500
+	},
+	{
+		"S/N" : 15,
+		"DRUGS" : "SUSP. MMT SULPHATE ",
+		"Last" : "1 roll ",
+		"Used" : "3 rolls ",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "4000",
+		"Amount" : 4000
+	},
+	{
+		"S/N" : 16,
+		"DRUGS" : "INJ. BUSCOPAN ",
+		"Last" : "5 pcs",
+		"Used" : "3 pcs",
+		"Remain" : "1 roll",
+		"Needed" : "5 pks",
+		"Unit_Price" : "15000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 17,
+		"DRUGS" : "INJ. CIMETIDINE",
+		"Last" : "1 roll ",
+		"Used" : "6 pcs",
+		"Remain" : "6 pcs",
+		"Needed" : "1 roll",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 20,
+		"DRUGS" : "INJ. HYDROCORT",
+		"Last" : "2 bxs",
+		"Used" : "I bx",
+		"Remain" : "1 bx",
+		"Needed" : "2 bxes",
+		"Unit_Price" : "2500",
+		"Amount" : 2500
+	},
+	{
+		"S/N" : 22,
+		"DRUGS" : "INJ. AMINOPHYLINE ",
+		"Last" : "1 pk",
+		"Used" : "1 pk ",
+		"Remain" : "nil",
+		"Needed" : "1 pk",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 24,
+		"DRUGS" : "INJ. ARTEMETHER ",
+		"Last" : "8 boxes",
+		"Used" : "5 bxs",
+		"Remain" : "3 pks",
+		"Needed" : "10 boxes",
+		"Unit_Price" : "4200",
+		"Amount" : 42000
+	},
+	{
+		"S/N" : 25,
+		"DRUGS" : "INJ. PLASIL ",
+		"Last" : "1 roll ",
+		"Used" : "8 pks",
+		"Remain" : "8 pks ",
+		"Needed" : "1 roll",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 26,
+		"DRUGS" : "INJ. DICLOFENAC ",
+		"Last" : "1 roll ",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 6000
+	},
+	{
+		"S/N" : 28,
+		"DRUGS" : "INJ. CIPROFLOXACINE ",
+		"Last" : "2 rolls",
+		"Used" : "3 rolls ",
+		"Remain" : "nil",
+		"Needed" : "4 rolls",
+		"Unit_Price" : "4800",
+		"Amount" : 9600
+	},
+	{
+		"S/N" : 29,
+		"DRUGS" : "INJ. FLAGYL ",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls ",
+		"Remain" : "1 roll",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "5500",
+		"Amount" : 11000
+	},
+	{
+		"S/N" : 30,
+		"DRUGS" : "INJ. DIAZEPAM",
+		"Last" : "nil",
+		"Used" : "12 amps",
+		"Remain" : "1 pk",
+		"Needed" : "1 pk",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 32,
+		"DRUGS" : "INJ, OMEPRAZOLE ",
+		"Last" : "nil",
+		"Used" : "4 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "4000",
+		"Amount" : 8000
+	},
+	{
+		"S/N" : 34,
+		"DRUGS" : "INJ. PENTAZOCINE",
+		"Last" : "1 pk",
+		"Used" : "1 pk",
+		"Remain" : "nil",
+		"Needed" : "1 pk",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 35,
+		"DRUGS" : "INJ. PARACETAMOL ",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "2 rolls",
+		"Needed" : "1 roll",
+		"Unit_Price" : "2500",
+		"Amount" : 2500
+	},
+	{
+		"S/N" : 36,
+		"DRUGS" : "INJ. CRYSTALINE PENICILLINE ",
+		"Last" : "nil",
+		"Used" : "nil",
+		"Remain" : "5 vials",
+		"Needed" : "5 vials",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 40,
+		"DRUGS" : "INJ. VITAMIN BCO",
+		"Last" : "2 bxs",
+		"Used" : "2 bxs",
+		"Remain" : "nil",
+		"Needed" : "2 boxes",
+		"Unit_Price" : "2000",
+		"Amount" : 6000
+	},
+	{
+		"S/N" : 42,
+		"DRUGS" : "INJ. VITAMIN K",
+		"Last" : "nil",
+		"Used" : "1 pk",
+		"Remain" : "3 pks",
+		"Needed" : "2 pks",
+		"Unit_Price" : "2000",
+		"Amount" : 6000
+	},
+	{
+		"S/N" : 43,
+		"DRUGS" : "INJ. CEFTRIAXONE ",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "7000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 47,
+		"DRUGS" : "IVF. N/SALINE ",
+		"Last" : "2 cartons",
+		"Used" : "2 cartons",
+		"Remain" : "nil",
+		"Needed" : "2 cartons",
+		"Unit_Price" : "16000",
+		"Amount" : 32000
+	},
+	{
+		"S/N" : 48,
+		"DRUGS" : "IVF. 5% D/SALINE ",
+		"Last" : "1 carton ",
+		"Used" : "1 carton ",
+		"Remain" : "nil",
+		"Needed" : "2 cartons",
+		"Unit_Price" : "16000",
+		"Amount" : 16000
+	},
+	{
+		"S/N" : 49,
+		"DRUGS" : "IVF. 5% D/WATER ",
+		"Last" : "1 carton ",
+		"Used" : "12 pcs",
+		"Remain" : "15 pcs",
+		"Needed" : "1 carton",
+		"Unit_Price" : "16000",
+		"Amount" : 16000
+	},
+	{
+		"S/N" : 50,
+		"DRUGS" : "IVF. 4.3% D/SALINE ",
+		"Last" : "1 carton ",
+		"Used" : "12 pcs",
+		"Remain" : "nil",
+		"Needed" : "1 carton",
+		"Unit_Price" : "16000",
+		"Amount" : 16000
+	},
+	{
+		"S/N" : 51,
+		"DRUGS" : "IVF. MANNITOL",
+		"Last" : "1 carton ",
+		"Used" : "1 carton ",
+		"Remain" : "6 pcs",
+		"Needed" : "1 carton",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 52,
+		"DRUGS" : "WATER FOR INJECTION ",
+		"Last" : "nil",
+		"Used" : "25 pcs",
+		"Remain" : "25 pcs",
+		"Needed" : "1 box",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 54,
+		"DRUGS" : "METHYLATED SPIRIT ",
+		"Last" : "2 bts",
+		"Used" : "2 bts",
+		"Remain" : "nil",
+		"Needed" : "4 bts",
+		"Unit_Price" : "2200",
+		"Amount" : 4400
+	},
+	{
+		"S/N" : 58,
+		"DRUGS" : "PINK CANNULA",
+		"Last" : "1 box",
+		"Used" : "30 pcs",
+		"Remain" : "20 pcs",
+		"Needed" : "1 box",
+		"Unit_Price" : "3800",
+		"Amount" : 3800
+	},
+	{
+		"S/N" : 60,
+		"DRUGS" : "YELLOW CANNULA ",
+		"Last" : "1 box",
+		"Used" : "30 pcs",
+		"Remain" : "20 pcs",
+		"Needed" : "1 box",
+		"Unit_Price" : "4000",
+		"Amount" : 4000
+	},
+	{
+		"S/N" : 63,
+		"DRUGS" : "DICLOFENAC CREAM ",
+		"Last" : "5 pcs",
+		"Used" : "4 pcs",
+		"Remain" : "1 pc",
+		"Needed" : "5 pcs",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 64,
+		"DRUGS" : "EPIDERM CREAM",
+		"Last" : "5 pcs",
+		"Used" : "5 pcs",
+		"Remain" : "2 pcs",
+		"Needed" : "5 pcs",
+		"Unit_Price" : "4000",
+		"Amount" : 4000
+	},
+	{
+		"S/N" : 65,
+		"DRUGS" : "CLOTRIMAZOLE CREAM ",
+		"Last" : "5 pcs",
+		"Used" : "6 pcs",
+		"Remain" : "3 pcs",
+		"Needed" : "5 pcs",
+		"Unit_Price" : "4000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 66,
+		"DRUGS" : "KETOCONAZOLE CREAM",
+		"Last" : "nil",
+		"Used" : "1 pc",
+		"Remain" : "1 pc",
+		"Needed" : "5 pcs",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 67,
+		"DRUGS" : "KLOVINAL PESSARY ",
+		"Last" : "5 pcs",
+		"Used" : "7 pcs",
+		"Remain" : "1 pc",
+		"Needed" : "1 box",
+		"Unit_Price" : null,
+		"Amount" : 0
+	},
+	{
+		"S/N" : 68,
+		"DRUGS" : "ORS ",
+		"Last" : "2 rolls",
+		"Used" : "2 rolls",
+		"Remain" : "nil",
+		"Needed" : "4 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 6000
+	},
+	{
+		"S/N" : 69,
+		"DRUGS" : "BENZYLBENZOATE LOTION",
+		"Last" : "nil",
+		"Used" : "3 pcs",
+		"Remain" : "nil",
+		"Needed" : "5 pcs",
+		"Unit_Price" : "600",
+		"Amount" : 3000
+	},
+	{
+		"S/N" : 70,
+		"DRUGS" : "CALAMINE LOTION ",
+		"Last" : "5 pcs",
+		"Used" : "5 pcs",
+		"Remain" : "3 pcs",
+		"Needed" : "5 pcs",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 71,
+		"DRUGS" : "5ML N/SYRINGE ",
+		"Last" : "4 boxes",
+		"Used" : "4 boxes ",
+		"Remain" : "nil",
+		"Needed" : "6 boxes",
+		"Unit_Price" : "5200",
+		"Amount" : 31200
+	},
+	{
+		"S/N" : 72,
+		"DRUGS" : "2ML N/SYRINGE ",
+		"Last" : "4 boxes",
+		"Used" : "4 boxes ",
+		"Remain" : "nil",
+		"Needed" : "5 boxes",
+		"Unit_Price" : "5200",
+		"Amount" : 20800
+	},
+	{
+		"S/N" : 73,
+		"DRUGS" : "10ML N/SYRINGE ",
+		"Last" : "1 box",
+		"Used" : "1 box",
+		"Remain" : "nil",
+		"Needed" : "1 box",
+		"Unit_Price" : "6500",
+		"Amount" : 6500
+	},
+	{
+		"S/N" : 74,
+		"DRUGS" : "21G FREE NEEDLE ",
+		"Last" : "2 boxes ",
+		"Used" : "1 box",
+		"Remain" : "1 box",
+		"Needed" : "2 boxes",
+		"Unit_Price" : "1000",
+		"Amount" : 1000
+	},
+	{
+		"S/N" : 75,
+		"DRUGS" : "23G FREE NEEDLE ",
+		"Last" : "2 boxes ",
+		"Used" : "1 box",
+		"Remain" : "1 box",
+		"Needed" : "2 boxes",
+		"Unit_Price" : "1000",
+		"Amount" : 1000
+	},
+	{
+		"S/N" : 77,
+		"DRUGS" : "DRIP GIVING SET ",
+		"Last" : "1 bag",
+		"Used" : "2 bags",
+		"Remain" : "30 pcs",
+		"Needed" : "2 bags",
+		"Unit_Price" : "6000",
+		"Amount" : 6000
+	},
+	{
+		"S/N" : 78,
+		"DRUGS" : "GAUZE",
+		"Last" : "3 rolls",
+		"Used" : "1 roll ",
+		"Remain" : "2 rolls",
+		"Needed" : "2 rolls",
+		"Unit_Price" : "4200",
+		"Amount" : 8400
+	},
+	{
+		"S/N" : 79,
+		"DRUGS" : "SURGICAL GLOVE",
+		"Last" : "nil",
+		"Used" : "13 pcs",
+		"Remain" : "10 pcs",
+		"Needed" : "1 box",
+		"Unit_Price" : "8100",
+		"Amount" : 8100
+	},
+	{
+		"S/N" : 82,
+		"DRUGS" : "COTTON WOOL 500G ",
+		"Last" : "5 rolls",
+		"Used" : "4 rolls",
+		"Remain" : "3 rolls",
+		"Needed" : "5 rolls",
+		"Unit_Price" : "2000",
+		"Amount" : 6000
+	},
+	{
+		"S/N" : 91,
+		"DRUGS" : "PLASTER ",
+		"Last" : "5 pcs",
+		"Used" : "7 pcs",
+		"Remain" : "2 pcs",
+		"Needed" : "1 pk",
+		"Unit_Price" : "4500",
+		"Amount" : 4500
+	},
+	{
+		"S/N" : 96,
+		"DRUGS" : "EXAMINATION GLOVE ",
+		"Last" : "1 carton ",
+		"Used" : "1 carton ",
+		"Remain" : "nil",
+		"Needed" : "1 carton",
+		"Unit_Price" : "40000",
+		"Amount" : 40000
+	},
+	{
+		"S/N" : 97,
+		"DRUGS" : "CAP. AMOXICILLIN 250MG",
+		"Last" : "2 pks",
+		"Used" : "3 pks",
+		"Remain" : "nil",
+		"Needed" : "5 pks",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 98,
+		"DRUGS" : "CAP. AMOXICILLIN 500MG",
+		"Last" : "5 pks",
+		"Used" : "7 pks ",
+		"Remain" : "nil",
+		"Needed" : "7 pks",
+		"Unit_Price" : "2500",
+		"Amount" : 5000
+	},
+	{
+		"S/N" : 100,
+		"DRUGS" : "CAP. OMEPRAZOLE 20MG ",
+		"Last" : "1 box",
+		"Used" : "2 boxes",
+		"Remain" : "nil",
+		"Needed" : "5 boxes",
+		"Unit_Price" : "3800",
+		"Amount" : 7600
+	},
+	{
+		"S/N" : 101,
+		"DRUGS" : "CAP. DOXYCYCLINE 100MG",
+		"Last" : "2 pks",
+		"Used" : "2 pks",
+		"Remain" : "1 pk",
+		"Needed" : "3 pks",
+		"Unit_Price" : "2700",
+		"Amount" : 2700
+	},
+	{
+		"S/N" : 105,
+		"DRUGS" : "TAB. AZITHROMYCINE 500MG ",
+		"Last" : "nil",
+		"Used" : "2 pks",
+		"Remain" : "2 pks ",
+		"Needed" : "5 pks",
+		"Unit_Price" : "11000",
+		"Amount" : 11000
+	},
+	{
+		"S/N" : 107,
+		"DRUGS" : "TAB. FLAGYL  200mg",
+		"Last" : "1 tin",
+		"Used" : "1 tin",
+		"Remain" : "I tin ",
+		"Needed" : "2 tins",
+		"Unit_Price" : "3000",
+		"Amount" : 6000
+	},
+	{
+		"S/N" : 108,
+		"DRUGS" : "TAB. CIMETIDINE 400MG",
+		"Last" : "nil",
+		"Used" : "5 pks",
+		"Remain" : "nil",
+		"Needed" : "1 roll",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 109,
+		"DRUGS" : "TAB. GELUSIL ",
+		"Last" : "2 tins",
+		"Used" : "1 tin",
+		"Remain" : "1 tin",
+		"Needed" : "2 tins",
+		"Unit_Price" : "6800",
+		"Amount" : 13600
+	},
+	{
+		"S/N" : 110,
+		"DRUGS" : "TAB. GLUCOPHAGE 500MG",
+		"Last" : "nil",
+		"Used" : "2 tins",
+		"Remain" : "1 tin",
+		"Needed" : "2 tins",
+		"Unit_Price" : "5800",
+		"Amount" : 5800
+	},
+	{
+		"S/N" : 113,
+		"DRUGS" : "TAB. LISINOPRIL 10MG ",
+		"Last" : "nil",
+		"Used" : "13 pks",
+		"Remain" : "7 pks",
+		"Needed" : "3 rolls",
+		"Unit_Price" : "6500",
+		"Amount" : 13000
+	},
+	{
+		"S/N" : 117,
+		"DRUGS" : "TAB. CIPROFLOXACIN 500MG ",
+		"Last" : "2 boxes ",
+		"Used" : "2 boxes",
+		"Remain" : "nil",
+		"Needed" : "2 boxes",
+		"Unit_Price" : "4000",
+		"Amount" : 12000
+	},
+	{
+		"S/N" : 118,
+		"DRUGS" : "TAB. ALBENDAZOLE 400MG ",
+		"Last" : "nil",
+		"Used" : "20 pcs",
+		"Remain" : "nil",
+		"Needed" : "2 tins",
+		"Unit_Price" : "4000",
+		"Amount" : 4000
+	},
+	{
+		"S/N" : 120,
+		"DRUGS" : "TAB. DICLOFENAC 50MG",
+		"Last" : "4 pks",
+		"Used" : "4 pks",
+		"Remain" : "nil",
+		"Needed" : "5 tins",
+		"Unit_Price" : "3800",
+		"Amount" : 11400
+	},
+	{
+		"S/N" : 121,
+		"DRUGS" : "TAB. IBUPROFEN 200MG",
+		"Last" : "1 tin",
+		"Used" : "1 tin",
+		"Remain" : "2 pks ",
+		"Needed" : "2 tins",
+		"Unit_Price" : "4000",
+		"Amount" : 8000
+	},
+	{
+		"S/N" : 122,
+		"DRUGS" : "TAB. GRISEOFULVIN 500MG",
+		"Last" : "nil",
+		"Used" : "nil",
+		"Remain" : "3 pks",
+		"Needed" : "5 pks",
+		"Unit_Price" : "6000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 123,
+		"DRUGS" : "TAB. M/VITAMINE ",
+		"Last" : "nil",
+		"Used" : "2 tins",
+		"Remain" : "nil",
+		"Needed" : "2 tins",
+		"Unit_Price" : "2000",
+		"Amount" : 4000
+	},
+	{
+		"S/N" : 124,
+		"DRUGS" : "TAB. FESOLATE ",
+		"Last" : "1 tin",
+		"Used" : "2 tins",
+		"Remain" : "nil",
+		"Needed" : "3 tins",
+		"Unit_Price" : "2000",
+		"Amount" : 4000
+	},
+	{
+		"S/N" : 126,
+		"DRUGS" : "TAB. PREDNISOLONE 5MG",
+		"Last" : "1 pk",
+		"Used" : "4 pks",
+		"Remain" : "1 pk",
+		"Needed" : "5 pks",
+		"Unit_Price" : "3800",
+		"Amount" : 11400
+	},
+	{
+		"S/N" : 128,
+		"DRUGS" : "TAB. FOLIC ACID 5MG ",
+		"Last" : "2 tins",
+		"Used" : "1 tin",
+		"Remain" : "2 tins ",
+		"Needed" : "2 tins",
+		"Unit_Price" : "1800",
+		"Amount" : 1800
+	},
+	{
+		"S/N" : 129,
+		"DRUGS" : "TAB. SEPTRIN 480MG ",
+		"Last" : "1 tin",
+		"Used" : "1 tin",
+		"Remain" : "1 tin",
+		"Needed" : "2 tins",
+		"Unit_Price" : "5300",
+		"Amount" : 5300
+	},
+	{
+		"S/N" : 130,
+		"DRUGS" : "TAB. ZINC 20MG ",
+		"Last" : "2 pks",
+		"Used" : "4 pks",
+		"Remain" : "nil",
+		"Needed" : "5 boxes",
+		"Unit_Price" : "1000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 131,
+		"DRUGS" : "TAB. LORATIDINE 10MG",
+		"Last" : "1 pk",
+		"Used" : "1 pk",
+		"Remain" : "1 pk",
+		"Needed" : "1 pk",
+		"Unit_Price" : "2000",
+		"Amount" : 4000
+	},
+	{
+		"S/N" : 132,
+		"DRUGS" : "TAB. NIFEDIPINE 20MG ",
+		"Last" : "1 pk",
+		"Used" : "1 pk",
+		"Remain" : "1 pk",
+		"Needed" : "1 pk",
+		"Unit_Price" : "1000",
+		"Amount" : 1000
+	},
+	{
+		"S/N" : 133,
+		"DRUGS" : "TAB. VIT BCO ",
+		"Last" : "nil",
+		"Used" : "nil",
+		"Remain" : "nil",
+		"Needed" : "2 tins",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 135,
+		"DRUGS" : "TAB. VIT C WHITE ",
+		"Last" : "nil",
+		"Used" : "2 tins",
+		"Remain" : "1 tin",
+		"Needed" : "3 tins",
+		"Unit_Price" : "2000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 136,
+		"DRUGS" : "TAB. CALCIUM",
+		"Last" : "2 tins",
+		"Used" : "1 tin",
+		"Remain" : "1 tin",
+		"Needed" : "2 tins",
+		"Unit_Price" : "3000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 137,
+		"DRUGS" : "TAB. PARACETAMOL 500MG",
+		"Last" : "nil",
+		"Used" : "50 pcs",
+		"Remain" : "28 pks",
+		"Needed" : "3 tins",
+		"Unit_Price" : "4000",
+		"Amount" : 8000
+	},
+	{
+		"S/N" : 138,
+		"DRUGS" : "TAB. BUSCOPAN 10MG ",
+		"Last" : "2 pks ",
+		"Used" : "1 pk",
+		"Remain" : "3 pks",
+		"Needed" : "1 pk",
+		"Unit_Price" : "2000",
+		"Amount" : 2000
+	},
+	{
+		"S/N" : 139,
+		"DRUGS" : "TAB. ACT 80/480MG ",
+		"Last" : "8 rolls",
+		"Used" : "7 rolls",
+		"Remain" : "1 roll",
+		"Needed" : "8 rolls",
+		"Unit_Price" : "4500",
+		"Amount" : 36000
+	},
+	{
+		"S/N" : 140,
+		"DRUGS" : "TAB. ACT 20/120MG ",
+		"Last" : "10 rolls",
+		"Used" : "9 rolls",
+		"Remain" : "6 pks",
+		"Needed" : "10 rolls",
+		"Unit_Price" : "5000",
+		"Amount" : 50000
+	},
+	{
+		"S/N" : 142,
+		"DRUGS" : "TAB. FANSIDAR ",
+		"Last" : "10 pks",
+		"Used" : "10 pks",
+		"Remain" : "nil",
+		"Needed" : "20 pks",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 145,
+		"DRUGS" : "TAB. PLASIL 10MG",
+		"Last" : "1 pk",
+		"Used" : "1 pk",
+		"Remain" : "1 pk",
+		"Needed" : "2 pks",
+		"Unit_Price" : "3500",
+		"Amount" : 3500
+	},
+	{
+		"S/N" : 149,
+		"DRUGS" : "TAB. KETOCONAZOLE 200MG",
+		"Last" : "5 pks",
+		"Used" : "7 pks ",
+		"Remain" : "2 pks ",
+		"Needed" : "10 pks",
+		"Unit_Price" : "7000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 150,
+		"DRUGS" : "TAB. FLUCONAZOLE 150MG",
+		"Last" : "nil",
+		"Used" : "6 pcs",
+		"Remain" : "nil",
+		"Needed" : "1 box",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 160,
+		"DRUGS" : "GUTT. CHLORAMPHENICOL",
+		"Last" : "1 box",
+		"Used" : "10 pcs",
+		"Remain" : "4 pcs",
+		"Needed" : "1 box",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : null,
+		"DRUGS" : "GUTT GENTAMYCIN ",
+		"Last" : "nil",
+		"Used" : "nil",
+		"Remain" : "nil",
+		"Needed" : "1 box",
+		"Unit_Price" : null,
+		"Amount" : null
+	},
+	{
+		"S/N" : 164,
+		"DRUGS" : "GUTT. BETADRONE N",
+		"Last" : "nil",
+		"Used" : "1 pc",
+		"Remain" : "nil",
+		"Needed" : "2 pcs",
+		"Unit_Price" : "800",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 165,
+		"DRUGS" : "SALBUTAMOL INHALER ",
+		"Last" : "nil",
+		"Used" : "1 pc",
+		"Remain" : "nil",
+		"Needed" : "2 pcs",
+		"Unit_Price" : "1500",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 168,
+		"DRUGS" : "SYR MULTIVITAMIN",
+		"Last" : "1 roll ",
+		"Used" : "1 roll",
+		"Remain" : "nil",
+		"Needed" : "2 rolls",
+		"Unit_Price" : "3000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 174,
+		"DRUGS" : "TAB AMOXICLAV 625MG",
+		"Last" : "nil",
+		"Used" : "1 roll",
+		"Remain" : "3 pcs",
+		"Needed" : "1 roll",
+		"Unit_Price" : "17000",
+		"Amount" : 0
+	},
+	{
+		"S/N" : 175,
+		"DRUGS" : "TAB MISOPROSTOL 250MCG",
+		"Last" : "nil",
+		"Used" : "2 pks",
+		"Remain" : "1 pk",
+		"Needed" : "6 pks",
+		"Unit_Price" : "  ",
+		"Amount" : 0
+	},
+	{
+		"S/N" : null,
+		"DRUGS" : "FACE MASK",
+		"Last" : "1 pk",
+		"Used" : "1 pk",
+		"Remain" : "nil",
+		"Needed" : "1 pk",
+		"Unit_Price" : null,
+		"Amount" : null
+	}
+]
